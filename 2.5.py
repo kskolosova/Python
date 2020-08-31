@@ -6,3 +6,4 @@ while number != 0:
     my_list.reverse()
     print(my_list)
     number = int(input('Если хотите выйти, введите 0. Введите элемент рейтинга: '))
+    
